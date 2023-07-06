@@ -2,6 +2,8 @@
 layout: post
 title:  "How to Generate Strong Passwords With QDG"
 date:   2021-04-02 10:00:00 -1000
+categories:
+  - blog
 tag: guides
 ---
 
