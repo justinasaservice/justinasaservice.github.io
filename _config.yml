@@ -58,9 +58,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Justin Sloan"
+  name   : "Hi! I'm Justin."
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I'm an IT services professional in Honolulu. On this site I share real stories, lessons learned, tutorials, tools, and 
+  advice from the field."
   links:
     - label: "/in/justin-sloan"
       icon: "fab fa-fw fa-linkedin"
