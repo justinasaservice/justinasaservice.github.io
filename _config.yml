@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Justin as a Service
+title: JaaS
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   The life and know-how of an IT services professional. Justin
@@ -68,7 +68,7 @@ author:
     - label: "/justin-sloan"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/justinsloan"
-    - label: "/u/sloancli"
+    - label: "u/sloancli"
       icon: "fab fa-fw fa-reddit"
       url: "https://reddit.com/u/sloancli"
     - label: "@sloancli"
@@ -87,7 +87,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/sloancli"
     - label: "Reddit"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-reddit"
       url: "https://reddit.com/u/sloancli"
 
 defaults:
