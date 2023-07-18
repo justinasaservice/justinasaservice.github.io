@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Justin as a Service"
 masthead_title: "JaaS"
-logo: "/assets/images/icon_only.png"
+logo: "/assets/images/logo3.png"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   The life and know-how of an IT services professional. Justin
