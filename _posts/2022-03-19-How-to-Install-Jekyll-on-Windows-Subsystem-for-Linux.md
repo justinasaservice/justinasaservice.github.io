@@ -1,7 +1,8 @@
 ---
-layout: post
 title:  "How to Install Jekyll on Windows Subsystem for Linux"
 date:   2022-03-19 09:07:56 -1000
+categories:
+  - Guides
 tag: guides
 ---
 

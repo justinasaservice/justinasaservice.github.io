@@ -1,7 +1,8 @@
 ---
-layout: post
 title:  "10 Useful BASH Aliases"
 date:   2021-11-12 10:00:00 -1000
+categories:
+  - Guides
 tag: tech
 ---
 
