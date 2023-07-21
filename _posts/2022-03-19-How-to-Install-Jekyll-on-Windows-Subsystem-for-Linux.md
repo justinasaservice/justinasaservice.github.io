@@ -1,9 +1,11 @@
 ---
 title:  "How to Install Jekyll on Windows Subsystem for Linux"
 date:   2022-03-19 09:07:56 -1000
-categories:
+categories: # each post should have exactly one category
   - Guides
-tag: guides
+tags:       # each post can have up to three tags
+  - Linux
+  - Windows
 ---
 
 If you try to install [Jekyll](https://jekyllrb.com/) on a base install of Windows Subsystem for Linux (WSL), you'll run into a few errors. This is because we need to be able to build Jekyll, but the required compilers, libraries, and utilities we need to do so are not installed by default. Luckily it is a simple fix that requires just a few terminal commands.

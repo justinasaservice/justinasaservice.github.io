@@ -1,9 +1,12 @@
 ---
 title:  "How to Scan a Network Using a Windows Batch Script"
 date:   2022-08-21 10:00:00 -1000
-categories:
+categories: # each post should have exactly one category
   - Guides
-tag: guides
+tags:       # each post can have up to three tags
+  - Windows
+  - Batch
+  - Tools
 ---
 
 The company I work for uses [Lansweeper](https://www.lansweeper.com) to keep tabs on network assets, but Lansweeper is complete overkill when you just need to take a quick snapshot of critical systems. So I wrote a simple batch script that will ping every host in a list and report back on their status, as well as provide a report of the offline systems which may need further investigation. This gives me a quick idea of the health of the network when my workday begins, and helps me to focus in on areas that may become serious problems.

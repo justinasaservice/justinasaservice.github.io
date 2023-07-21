@@ -1,9 +1,11 @@
 ---
 title:  "10 Useful BASH Aliases"
 date:   2021-11-12 10:00:00 -1000
-categories:
+categories: # each post should have exactly one category
   - Guides
-tag: tech
+tags:       # each post can have up to three tags
+  - Linux
+  - Bash
 ---
 
 BASH aliases are a handy way to create shortcuts for commands you use frequently or may otherwise be long and tedious to remember. I'll briefly explain how to create BASH aliases and then show you a few of the ones I use everyday.

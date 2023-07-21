@@ -1,9 +1,12 @@
 ---
 title:  "How to generate strong passwords with quantum random data"
 date:   2021-04-02 10:00:00 -1000
-categories:
+categories: # each post should have exactly one category
   - Guides
-tag: Linux, Python, Tools
+tags:       # each post can have up to three tags
+  - Linux
+  - Python
+  - Tools
 ---
 
 A number of years ago I wrote a little utility that generates [Diceware][1] passwords. "Big deal!", you might think. But my utility has a unique feature. It generates passwords using quantum random data from cosmic microwave background radiation.
