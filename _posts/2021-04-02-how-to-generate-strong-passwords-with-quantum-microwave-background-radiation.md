@@ -1,14 +1,14 @@
 ---
-title:  "How to Generate Strong Passwords With QDG"
+title:  "How to generate strong passwords with quantum random data"
 date:   2021-04-02 10:00:00 -1000
 categories:
   - blog
 tag: guides
 ---
 
-A number of years ago I wrote a little utility that generates [Diceware](https://theworld.com/~reinhold/diceware.html) passwords. "Big deal!", you might think. But my utility has a unique feature. It generates passwords using quantum random data from cosmic microwave background radiation.
+A number of years ago I wrote a little utility that generates [Diceware][1] passwords. "Big deal!", you might think. But my utility has a unique feature. It generates passwords using quantum random data from cosmic microwave background radiation.
 
-Okay, so, it sounds like something from a Superman movie, but why does it matter?
+*"Okay, so, it sounds like something from a Superman movie, but why does it matter?"*
 
 A truly random number is something that is surprisingly difficult to generate. Computers can only generate pseudo-random data. The data may *look* random, but in fact follows a predictable sequence. Anything that is predictable is repeatable and therefore subject to attack. To create strong passwords that are not predictable, we need truly random data.
 
@@ -24,7 +24,7 @@ For example:
     ella trout canna beryl mabel bold
 ```
 
-It is designed to be used with paper and six-sided dice. It is secure because it is done offline, uses truly random data, is fully transparent in the generating process, and is easy to remember. You can read more about it [here](https://theworld.com/~reinhold/diceware.html).
+It is designed to be used with paper and six-sided dice. It is secure because it is done offline, uses truly random data, is fully transparent in the generating process, and is easy to remember. You can read more about it [here][2].
 
 The downside is that it can take upwards of six to ten minutes to generate one password, as each word requires six rolls of the dice (or one roll of six dice).
 
@@ -88,4 +88,8 @@ Anytime you need to update your password, you can keep the part in the middle an
 
 As a general rule, you want your password to be as long as is allowed by the account. Password strength comes from *length*, not complexity.
 
-So this was just a quick explanation of how I generate strong passwords. You can learn more about QDG by [reading the docs](http://qdg.readthedocs.io/).
+So this was just a quick explanation of how I generate strong passwords. You can learn more about QDG by [reading the docs][3].
+
+[1]: https://theworld.com/~reinhold/diceware.html
+[2]: https://theworld.com/~reinhold/diceware.html
+[3]: http://qdg.readthedocs.io/
