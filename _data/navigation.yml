@@ -1,9 +1,12 @@
 main:
-  - title: "posts"
+  - title: "News"
+    icon: "fab fa-fw fa-linkedin"
     url: /posts/
-  - title: "categories"
+  - title: "Reviews"
+    url: /posts/
+  - title: "Op-eds"
     url: /categories/
-  - title: "tags"
+  - title: "Guides"
     url: /tags/
   - title: "things"
     url: /things/
