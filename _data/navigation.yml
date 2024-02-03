@@ -1,6 +1,5 @@
 main:
-  - title: "News"
-    icon: "fab fa-fw fa-linkedin"
+  - title: "<i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> News"
     url: /posts/
   - title: "Reviews"
     url: /posts/
