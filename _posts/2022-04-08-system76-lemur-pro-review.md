@@ -7,6 +7,10 @@ tags:       # each post can have up to three tags
   - Linux
 ---
 
+System76 is an American computer maker known for their first-class Linux support and customizable, high-performance machines. While their laptop line up is composed of chassis built by the Taiwanese manufacturer Clevo, they are far from a white-label reseller of cheap computers. System76 produces their own firmware, builds custom drivers, and ships their own operating system, all with the goal of ensuring Linux compatibility with the hardware they sell. In addition, they stand behind their machines with up to a three-year warranty and lifetime support.
+
+The Lemur Pro is their smallest and lightest utraportable. It can be configured with up to an Intel i7, 8TB of NVMe storage, and 56GB of RAM. The review unit here is their base model with an Intel i5, 250GB of NVMe storage, and 32GB of RAM.
+
 ## First Impression
 
 Out of the box the laptop is sleek and clean; equally as suited to the boardroom as it is to the hackerspace. It is hard to understate how thin and light this laptop is. It is on par with the MacBook Air in portability, but also significantly more powerful, customizable, and with a much larger selection of ports.
