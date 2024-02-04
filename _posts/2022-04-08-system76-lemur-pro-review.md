@@ -2,7 +2,10 @@
 layout: post
 title:  "System76 Lemur Pro Review"
 date:   2022-04-08 10:00:00 -1000
-tag: tech
+categories: # each post should have exactly one category
+  - Review
+tags:       # each post can have up to three tags
+  - Linux
 ---
 
 ## First Impression
