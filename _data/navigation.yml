@@ -9,5 +9,5 @@ main:
     icon: "fab fa-fw fa-linkedin"
     url: /categories/
   - title: "Guides"
-    icon: "fab fa-fw fa-linkedin"
+    icon: "far fa-comment-alt"
     url: /tags/
