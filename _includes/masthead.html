@@ -41,5 +41,5 @@
     content: {{ content | jsonify | escape }}
     paginator: {{ paginator | jsonify | escape }}
     nav: {{ nav | jsonify | escape }}
-    link: {{ link | jsonify | escape }}
+    link: {{ site.data.navigation.main.icon | jsonify | escape }}
 </pre>
