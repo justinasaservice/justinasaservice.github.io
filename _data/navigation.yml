@@ -1,9 +1,9 @@
 main:
   - title: "News"
-    icon: "fa-regular fa-newspaper"
+    icon: "far fa-newspaper"
     url: /posts/
   - title: "Reviews"
-    icon: "fa-regular fa-thumbs-up"
+    icon: "far fa-thumbs-up"
     url: /posts/
   - title: "Op-eds"
     icon: "fab fa-fw fa-linkedin"
