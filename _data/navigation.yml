@@ -3,7 +3,7 @@ main:
     icon: "far fa-newspaper"
     url: /posts/
   - title: "Reviews"
-    icon: "far fa-thumbs-up"
+    icon: "far fa-check-square""
     url: /posts/
   - title: "Op-eds"
     icon: "far fa-comment-alt"
