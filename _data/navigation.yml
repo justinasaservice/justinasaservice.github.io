@@ -1,5 +1,6 @@
 main:
   - title: "News"
+    icon: "fab fa-fw fa-linkedin"
     url: /posts/
   - title: "Reviews"
     url: /posts/
@@ -7,5 +8,3 @@ main:
     url: /categories/
   - title: "Guides"
     url: /tags/
-  - title: "things"
-    url: /things/
