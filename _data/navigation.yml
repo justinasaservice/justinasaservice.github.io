@@ -6,7 +6,7 @@ main:
     icon: "far fa-thumbs-up"
     url: /posts/
   - title: "Op-eds"
-    icon: "fas fa-clipboard-list"
+    icon: "far fa-comment-alt"
     url: /categories/
   - title: "Guides"
     icon: "far fa-comment-alt"
