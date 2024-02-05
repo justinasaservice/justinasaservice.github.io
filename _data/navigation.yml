@@ -3,8 +3,11 @@ main:
     icon: "fab fa-fw fa-linkedin"
     url: /posts/
   - title: "Reviews"
+    icon: "fab fa-fw fa-linkedin"
     url: /posts/
   - title: "Op-eds"
+    icon: "fab fa-fw fa-linkedin"
     url: /categories/
   - title: "Guides"
+    icon: "fab fa-fw fa-linkedin"
     url: /tags/
