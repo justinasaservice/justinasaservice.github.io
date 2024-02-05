@@ -3,10 +3,10 @@ main:
     icon: "far fa-newspaper"
     url: /posts/
   - title: "Reviews"
-    icon: "far fa-check-square""
+    icon: "far fa-check-square"
     url: /posts/
   - title: "Op-eds"
-    icon: "far fa-comment-alt"
+    icon: "fas fa-bullhorn"
     url: /categories/
   - title: "Guides"
     icon: "far fa-comment-alt"
