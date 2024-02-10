@@ -1,4 +1,12 @@
-## This should be your next System76 laptop
+---
+title: "This should be your next System76 laptop"
+categories:
+  - Guide
+tags:
+  - System76
+  - Linux
+  - Pop!_OS
+---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet bibendum neque, et volutpat neque rutrum eget. Nulla in imperdiet elit. Donec sit amet erat eget odio viverra malesuada tempor eget leo. Proin urna massa, luctus sed semper in, aliquet id massa. Donec vehicula ut risus a finibus. In rutrum eu ligula non suscipit. Nunc ex felis, elementum nec tincidunt non, laoreet et enim. Ut convallis commodo dui, quis volutpat orci. Sed vestibulum purus nibh, id sagittis erat tempus eu. Proin vulputate, mi nec cursus laoreet, nulla justo mattis neque, ut rutrum ex justo eget tellus. Donec placerat blandit suscipit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
