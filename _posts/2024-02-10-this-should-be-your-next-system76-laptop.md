@@ -1,7 +1,7 @@
 ---
 title: "This should be your next System76 laptop"
 categories:
-  - Guide
+  - Oped
 tags:
   - System76
   - Linux
