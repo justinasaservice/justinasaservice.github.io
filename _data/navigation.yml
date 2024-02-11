@@ -1,5 +1,5 @@
 main:
-  - title: "News"
+  - title: "Headlines"
     icon: "far fa-newspaper"
     url: /posts/
   - title: "Reviews"
