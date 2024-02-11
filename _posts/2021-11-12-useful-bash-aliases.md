@@ -1,6 +1,5 @@
 ---
 title:  "10 Useful BASH Aliases"
-date:   2021-11-12 10:00:00 -1000
 categories: # each post should have exactly one category
   - Guides
 tags:       # each post can have up to three tags

@@ -1,6 +1,5 @@
 ---
 title:  "How to Scan a Network Using a Windows Batch Script"
-date:   2022-08-21 10:00:00 -1000
 categories: # each post should have exactly one category
   - Guides
 tags:       # each post can have up to three tags

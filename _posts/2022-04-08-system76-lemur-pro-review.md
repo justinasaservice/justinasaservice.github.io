@@ -1,8 +1,7 @@
 ---
 title:  "System76 Lemur Pro Review"
-date:   2022-04-08 10:00:00 -1000
 categories: # each post should have exactly one category
-  - Review
+  - Reviews
 tags:       # each post can have up to three tags
   - Linux
 ---

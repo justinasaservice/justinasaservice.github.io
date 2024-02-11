@@ -1,6 +1,5 @@
 ---
 title:  "How to generate strong passwords with quantum random data"
-date:   2021-04-02 10:00:00 -1000
 categories: # each post should have exactly one category
   - Guides
 tags:       # each post can have up to three tags

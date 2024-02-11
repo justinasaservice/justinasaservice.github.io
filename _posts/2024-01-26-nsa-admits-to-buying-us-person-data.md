@@ -2,9 +2,8 @@
 title: >-
   NSA admits to buying sensitive US person data from brokers to usurp Fourth
   Amendment rights
-date: '2024-01-26 10:00:00 -1000'
 categories:
-  - News
+  - Headlines
 tags:
   - Privacy
 link: >-
