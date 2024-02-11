@@ -1,13 +1,14 @@
+# Top bar navigation links
 main:
   - title: "Headlines"
-    icon: "far fa-newspaper"
-    url: /posts/
+    icon : "far fa-newspaper"
+    url  : /posts/
   - title: "Reviews"
-    icon: "far fa-check-square"
-    url: /posts/
+    icon : "far fa-check-square"
+    url  : /posts/
   - title: "Op-eds"
-    icon: "fas fa-bullhorn"
-    url: /categories/
+    icon : "fas fa-bullhorn"
+    url  : /categories/
   - title: "Guides"
-    icon: "far fa-comment-alt"
-    url: /tags/
+    icon : "far fa-comment-alt"
+    url  : /tags/
