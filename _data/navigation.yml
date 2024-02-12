@@ -4,11 +4,11 @@ main:
     icon : "far fa-newspaper"
     url  : /posts/
   - title: "Reviews"
-    icon : "far fa-check-square"
+    icon : "far fa-edit"
     url  : /posts/
-  - title: "Op-eds"
-    icon : "fas fa-bullhorn"
+  - title: "Ask"
+    icon : "far fa-question-circle"
     url  : /categories/
-  - title: "Guides"
-    icon : "far fa-comment-alt"
+  - title: "Help File"
+    icon : "far fa-folder-open"
     url  : /tags/
