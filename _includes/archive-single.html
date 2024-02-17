@@ -22,7 +22,7 @@
     <h2 class="archive__item-title no_toc" itemprop="headline">
       {% if post.link %}
         <i class="far fa-newspaper"></i>
-        <a href="{{ post.link }}">{{ title }}</a> <i class="fas fa-external-link-alt"></i>
+        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" class="superscript" rel="permalink"><i class="fas fa-external-link-alt" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
         <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
       {% endif %}
