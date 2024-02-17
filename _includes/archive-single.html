@@ -20,8 +20,9 @@
       </div>
     {% endif %}
     <h2 class="archive__item-title no_toc" itemprop="headline">
+        { post.categories.first }
         {% for nav in navigation %}
-          {% if nav.title == post.categories.first %}{{ nav.icon }}{% endif %}A{{ post.categories.first }}
+          {% if nav.title == post.categories.first %}{{ nav.icon }}{% endif %}
         {% endfor %}
         {% if post.link %}
           <a href="{{ post.link }}">{{ title }}</a><a href="{{ post.url | relative_url }}" class="superscript" rel="permalink"><i class="fas fa-external-link-alt" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
