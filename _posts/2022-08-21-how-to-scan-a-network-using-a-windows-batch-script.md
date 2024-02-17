@@ -1,8 +1,8 @@
 ---
-title:  "How to Scan a Network Using a Windows Batch Script"
-categories: # each post should have exactly one category
-  - Guides
-tags:       # each post can have up to three tags
+title: How to Scan a Network Using a Windows Batch Script
+categories:
+  - Help File
+tags:
   - Windows
   - Batch
   - Tools
