@@ -1,8 +1,8 @@
 ---
-title:  "How to Install Jekyll on Windows Subsystem for Linux"
-categories: # each post should have exactly one category
-  - Guides
-tags:       # each post can have up to three tags
+title: How to Install Jekyll on Windows Subsystem for Linux
+categories:
+  - Help File
+tags:
   - Linux
   - Windows
 ---
