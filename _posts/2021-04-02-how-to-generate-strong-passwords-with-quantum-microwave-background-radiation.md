@@ -1,8 +1,8 @@
 ---
-title:  "How to generate strong passwords with quantum random data"
-categories: # each post should have exactly one category
-  - Guides
-tags:       # each post can have up to three tags
+title: How to generate strong passwords with quantum random data
+categories:
+  - Help File
+tags:
   - Linux
   - Python
   - Tools
