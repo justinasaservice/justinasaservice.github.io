@@ -2,10 +2,10 @@
 main:
   - title: "Headlines"
     icon : "far fa-newspaper"
-    url  : /categories/
+    url  : /categories/#headlines
   - title: "Journal"
     icon : "far fa-edit"
-    url  : /posts/
+    url  : /categories/#journal/
   - title: "Help File"
     icon : "far fa-folder-open"
-    url  : /tags/
+    url  : /categories/#help-file/
