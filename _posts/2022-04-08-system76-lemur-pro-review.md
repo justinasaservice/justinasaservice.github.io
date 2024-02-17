@@ -1,8 +1,8 @@
 ---
-title:  "System76 Lemur Pro Review"
-categories: # each post should have exactly one category
-  - Reviews
-tags:       # each post can have up to three tags
+title: System76 Lemur Pro Review
+categories:
+  - Journal
+tags:
   - Linux
 ---
 
