@@ -1,7 +1,7 @@
 ---
-title: "This should be your next System76 laptop"
+title: This should be your next System76 laptop
 categories:
-  - Oped
+  - Journal
 tags:
   - System76
   - Linux
