@@ -1,8 +1,8 @@
 ---
-title:  "10 Useful BASH Aliases"
-categories: # each post should have exactly one category
-  - Guides
-tags:       # each post can have up to three tags
+title: 10 Useful BASH Aliases
+categories:
+  - Help File
+tags:
   - Linux
   - Bash
 ---
