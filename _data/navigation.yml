@@ -2,13 +2,10 @@
 main:
   - title: "Headlines"
     icon : "far fa-newspaper"
-    url  : /posts/
-  - title: "Reviews"
+    url  : /categories/
+  - title: "Journal"
     icon : "far fa-edit"
     url  : /posts/
-  - title: "Ask"
-    icon : "far fa-question-circle"
-    url  : /categories/
   - title: "Help File"
     icon : "far fa-folder-open"
     url  : /tags/
