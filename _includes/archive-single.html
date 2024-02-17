@@ -20,7 +20,7 @@
       </div>
     {% endif %}
     <h2 class="archive__item-title no_toc" itemprop="headline">
-        {{ post.categories.first }}
+        {{ nav.title }} {{ post.categories.first }}
         {% for nav in navigation %}
           {% if nav.title == post.categories.first %}{{ nav.icon }}{% endif %}
         {% endfor %}
