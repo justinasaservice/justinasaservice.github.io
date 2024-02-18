@@ -9,7 +9,7 @@ masthead_title       : "   " # overrides the website title displayed in the mast
 subtitle             : # site tagline that appears below site title in masthead
 logo                 : "/assets/images/logo3.png"
 copyright            : "Justin M. Sloan"
-description          : >- # this means to ignore newlines until "baseurl:"
+description          : >- # this means to ignore newlines until the next parameter
   The life and know-how of an IT services professional. Justin
   shares real stories, lessons learned, tutorials, tools, and 
   advice from the field.
