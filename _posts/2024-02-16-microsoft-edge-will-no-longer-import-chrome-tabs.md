@@ -1,9 +1,12 @@
 ---
-title: Microsoft Edge will no longer import Chrome tabs
+title: "Microsoft Edge will no longer import Chrome tabs"
 categories:
   - Headlines
 tags:
-  - 'Privacy, Microsoft, Edge'
+  - Privacy
+  - Microsoft
+  - Edge
+source: "Thurrott.com"
 link: >-
   https://www.thurrott.com/cloud/297936/microsoft-edge-should-no-longer-import-other-browsers-data-without-user-consent
 ---
