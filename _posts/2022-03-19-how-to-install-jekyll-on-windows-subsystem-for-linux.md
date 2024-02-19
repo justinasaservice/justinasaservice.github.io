@@ -64,4 +64,4 @@ That's it! [Let me know](/about) if I got anything wrong, or send me some commen
 
 ### What does the `--drafts` option do?
 
-There are two ways to manage drafts in Jekyll. One is to have a post in the `"_posts"`folder with a date greater than the current date, and the other is have a seperate `"_drafts"` folder. Running the server with the `--drafts` option tells Jekyll to go ahead and show your drafts as if they are published, allowing you to see a preview before going live.
+There are two ways to manage drafts in Jekyll. One is to have a post in the `"_posts"` folder with a date greater than the current date, and the other is have a separate `"_drafts"` folder. Running the server with the `--drafts` option tells Jekyll to go ahead and show your drafts as if they are published, allowing you to see a preview before going live.

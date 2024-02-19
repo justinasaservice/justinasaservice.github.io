@@ -6,6 +6,7 @@ categories:
   - Headlines
 tags:
   - Privacy
+source: "Ars Technica"
 link: >-
   https://arstechnica.com/tech-policy/2024/01/nsa-finally-admits-to-spying-on-americans-by-purchasing-sensitive-data/
 ---
