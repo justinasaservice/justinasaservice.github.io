@@ -1,6 +1,6 @@
 ## Jekyll Site Configuration
 
-build                : "11" # this is your local build number
+build                : "12" # this is your local build number
 
 # Site settings
 url                  : https://www.justinasaservice.com
@@ -30,10 +30,6 @@ permalink    : /:categories/:title/
 paginate     : 5 # amount of posts to show
 paginate_path: /page:num/
 timezone     : HST # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-# SEO settings
-google_site_verification :
-bing_site_verification   :
 
 include:
   - _pages
@@ -69,7 +65,7 @@ author:
     - label: "in/justin-sloan"
       icon : "fab fa-fw fa-linkedin"
       url  : "https://linkedin.com/in/justin-sloan"
-    - label: "/justin-sloan"
+    - label: "/justinsloan"
       icon : "fab fa-fw fa-github"
       url  : "https://github.com/justinsloan"
     - label: "u/sloancli"
