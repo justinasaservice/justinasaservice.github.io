@@ -1,7 +1,8 @@
 ---
 title: How is Orchestration different from Synchronization?
 categories:
-  - Short Answers
+  - Journal
+    - Short Answers
 tags:
   - Administration
 ---
