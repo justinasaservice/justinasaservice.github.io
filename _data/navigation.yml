@@ -4,7 +4,7 @@ main:
     icon : "far fa-newspaper"
     url  : /categories/#headlines
   - title: "Journal"
-    icon : "far fa-edit"
+    icon : "fa-regular fa-pen-to-square"
     url  : /categories/#journal/
   - title: "Help File"
     icon : "far fa-folder-open"
