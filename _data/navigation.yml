@@ -1,5 +1,5 @@
 # Top bar navigation links
-main:
+main: 
   - title: "Headlines"
     icon : "far fa-newspaper"
     url  : /categories/#headlines
