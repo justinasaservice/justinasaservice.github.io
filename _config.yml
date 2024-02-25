@@ -1,6 +1,6 @@
 ## Jekyll Site Configuration
 
-build                : "30" # this is your local build number
+build                : "31" # this is your local build number
 
 # Site settings
 url                  : https://www.justinasaservice.com
@@ -27,7 +27,7 @@ remote_theme : justinasaservice/muted
 repository   : justinasaservice/justinasaservice.github.io
 
 # Outputting
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: default
 permalink    : /:categories/:title/
 paginate     : 5 # amount of posts to show
 paginate_path: /page:num/
