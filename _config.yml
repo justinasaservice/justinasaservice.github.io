@@ -1,6 +1,6 @@
 ## Jekyll Site Configuration
 
-build                : "15" # this is your local build number
+build                : "16" # this is your local build number
 
 # Site settings
 url                  : https://www.justinasaservice.com
